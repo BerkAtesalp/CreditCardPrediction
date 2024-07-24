@@ -13,8 +13,11 @@ The project leverages credit card spending data and account movements to predict
 Objectives
 
 Predict Future Expenditures and Account Balances: Utilize historical data to forecast users' future spending and balances.
+
 Budget Management Recommendations: Provide recommendations based on spending habits to aid users in managing their budgets effectively.
+
 Visual Reports for Users: Offer visual reports on account movements and credit card transactions categorized by type, and provide time-dependent visual reports on spending and balance data to enhance user understanding and management capabilities.
+
 Features
 
 Spending Prediction: Employ machine learning models to predict future spending based on past transaction data.

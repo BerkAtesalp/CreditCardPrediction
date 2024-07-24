@@ -23,12 +23,17 @@ Budget Recommendations: Generate actionable insights and recommendations for bud
 
 Interactive Visualizations: Implement dashboards for interactive and dynamic visual analysis of spending patterns.
 Data
+
 The project uses anonymized user data encompassing credit card transactions and account movements. Data preprocessing and cleaning are critical steps to ensure the quality and reliability of the models developed.
 
 Technologies Used
 
 Python: For data processing and machine learning.
+
 Pandas & NumPy: For data manipulation.
+
 Matplotlib & Seaborn: For generating static and interactive visualizations.
+
 Scikit-Learn: For implementing machine learning models.
+
 Jupyter Notebook: For interactive development and demonstrations.
